@@ -1,0 +1,28 @@
+.titulo h2{
+    text-align: center;
+    color: #f00;
+}
+.titulo h3{
+    color: #43f
+}
+li b{
+    color: #f50;
+}
+.alumno {
+    color:#a4f;
+}
+.alumno b{
+    color:#040;
+}
+.recarga {
+    text-align: center;
+    border: red solid  1px;
+}
+
+.image img{
+    float: right;
+    display: inline-flex;
+    width: 30%;
+    height: 50%;
+    margin-top: -55px;
+}
